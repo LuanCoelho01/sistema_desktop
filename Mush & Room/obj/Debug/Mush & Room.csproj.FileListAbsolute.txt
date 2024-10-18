@@ -1,0 +1,35 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\bin\Debug\Mush & Room.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\bin\Debug\Mush & Room.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\bin\Debug\Mush & Room.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.Principal.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaCompras.compras.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaFornecedores.fornecedores.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProducao.producao.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProdutos.produtos.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush & Room.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush & Room.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaFornecedores.cad_fornecedor.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\bin\Debug\Mush & Room.exe.config
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\bin\Debug\Mush & Room.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\bin\Debug\Mush & Room.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.Properties.Resources.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaCompras.cad_compra.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaCompras.compras.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaFornecedores.cad_fornecedor.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaFornecedores.fornecedores.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProducao.cad_producao.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProducao.producao.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProdutos.cad_produto.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProdutos.produtos.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.GenerateResource.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush & Room.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush & Room.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush & Room.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProducao.alt_producao.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.frmPrincipal.resources
+C:\Users\luanc\OneDrive\Área de Trabalho\PROJETO PIM - Copia\Mush & Room\Mush & Room\obj\Debug\Mush___Room.telaProducao.telaLogin.resources

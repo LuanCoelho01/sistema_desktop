@@ -1,0 +1,43 @@
+﻿CREATE DATABASE BDcogunmelos;
+
+USE BDcogumelos;
+
+CREATE TABLE TBusuarios(
+id_usuario INT PRIMARY KEY INDENTITY (1,1) NOT NULL,
+nome_usuario VARCHAR (50) UNIQUE,
+senha_usuario VARCHAR (20) NOT NULL
+);
+
+CREATE TABLE TBprodutos(
+id_produto INT PRIMARY KEY IDENTITY (1,1) NOT NULL,
+nome_produto VARCHAR (50) NOT NULL,
+info_produto VARCHAR (50) NOT NULL,
+quant_minima VARCHAR (8) NOT NULL
+quant_estoque VARCHAR (10) NOT NULL
+);
+
+CREATE TABLE TBproducao(
+id_prod INT PRIMARY KEY IDENTITY (1,1) NOT NULL,
+nome_producao VARCHAR (80) NOT NULL,
+info_producao VARCHAR (80) NOT NULL,
+ini_producao VARCHAR (80) NOT NULL,
+troca_substrato VARCHAR (80) NOT NULL
+);
+
+
+CREATE TABLE TBfornecedores(
+id_forn INT PRIMARY KEY IDENTITY (1,1) NOT NULL,
+nome_fornecedor VARCHAR (80) NOT NULL,
+nome_produto VARCHAR (80) NOT NULL,
+cnpj VARCHAR (80) UNIQUE,
+telefone VARCHAR (15) UNIQUE
+);
+
+
+CREATE TABLE TBcompras(
+id_compra INT PRIMARY KEY IDENTITY (1,1) NOT NULL,
+nome_fornecedor VARCHAR (80) NOT NULL,
+produto_comprado VARCHAR (80) NOT NULL,
+qtd_comprada VARCHAR (15) NOT NULL,
+valor_total DECIMAL (10,2) NOT NULL
+);
